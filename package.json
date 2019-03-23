@@ -11,6 +11,13 @@
   ],
   "author": "Joshua Nelson and Matt Godbolt",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyn514/asm-file-cleaner"
+  },
+  "bugs": {
+    "url": "https://github.com/jyn514/asm-file-cleaner/issues"
+  },
   "dependencies": {
     "get-stdin": "^4.0.0",
     "underscore": "1.9.1"
