@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+/* Copyright (c) Joshua Nelson
+ * Licensed under BSD 2-Clause
+ * See https://opensource.org/licenses/BSD-2-Clause
+ */
 'use strict';
 
 const getStdin = require('get-stdin');
