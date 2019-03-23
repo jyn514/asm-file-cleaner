@@ -1,0 +1,18 @@
+{
+  "name": "asm-cleaner",
+  "version": "1.0.0",
+  "description": "Cleanup assembly files to be easier to read",
+  "main": "asm-file-parser.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "assembly"
+  ],
+  "author": "Joshua Nelson and Matt Godbolt",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "get-stdin": "^4.0.0",
+    "underscore": "1.9.1"
+  }
+}
